@@ -89,8 +89,6 @@ B.Tech (Data Science)
 
 Aspiring Data Analyst | Machine Learning Enthusiast
 
-- LinkedIn: *Add your LinkedIn profile*
-- GitHub: *Add your GitHub profile*
 
 ---
 
